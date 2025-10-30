@@ -411,12 +411,6 @@ git push origin feature/new-feature
 # Create Pull Request
 ```
 
-### Code Standards
-- Clean code without comments
-- Type hints where applicable
-- Error handling for all operations
-- Performance optimization
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
